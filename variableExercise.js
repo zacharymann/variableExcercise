@@ -20,7 +20,7 @@ let blank;
 // 8
 console.log(blank);
 //9
-const blank = null;
+blank = null;
 console.log(blank);
 
 // BONUS
